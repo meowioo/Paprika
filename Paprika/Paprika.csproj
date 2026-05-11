@@ -21,4 +21,8 @@
         <PackageReference Include="YamlDotNet" Version="17.0.1" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="docs\" />
+    </ItemGroup>
+
 </Project>

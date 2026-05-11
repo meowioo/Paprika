@@ -111,18 +111,13 @@ Paprika/
 samples/       示例配置
 ```
 
-本地开发时建议不要提交：
+## 运行截图
 
-- `bin/`
-- `obj/`
-- `.dotnet-home/`
-- `.paprika-home/`
-- `logs/`
-- `cores/`
-- `profiles/`
-- `runtime/`
-
-这些内容已经在 `.gitignore` 中排除。
+![首页状态](docs/images/main.png)
+![节点选择](docs/images/节点选择.png)
+![TUN 设置](docs/images/tun.png)
+![日志](docs/images/log.png)
+![日志](docs/images/logs.png)
 
 ## 免责声明
 
