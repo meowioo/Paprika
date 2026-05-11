@@ -1,0 +1,56 @@
+# Build outputs
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+publish/
+artifacts/
+
+# .NET local files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+TestResults/
+coverage/
+coverage.xml
+*.coverage
+*.coveragexml
+*.nupkg
+
+# Local dependency/tooling caches
+.dotnet-home/
+.nuget/
+.build-check/
+
+# IDE/editor state
+.vs/
+.idea/
+.vscode/
+
+# Paprika local runtime data
+.paprika-home/
+cores/
+profiles/
+runtime/
+logs/
+*.log
+*.pid
+
+# Downloaded mihomo cores and packaged release files
+mihomo
+mihomo.exe
+*.zip
+*.tar.gz
+*.7z
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
